@@ -1,7 +1,7 @@
 # Bharat AI-SoC Project: Road Anomaly Detection
 
 ## Project Overview
-This project detects road anomalies such as **potholes, bumps, and cracks** in videos using a YOLO-based **ONNX model**.  
+This project detects road anomalies such as **potholes, bumps, and cracks** in videos using a YOLOv8n-based **ONNX model**.  
 The system is deployed on a **Raspberry Pi 4** and can process pre-recorded videos to highlight anomalies with bounding boxes, confidence scores, and FPS information.  
 
 The project demonstrates a complete end-to-end pipeline:
