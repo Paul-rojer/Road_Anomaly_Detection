@@ -11,7 +11,7 @@ The project demonstrates a complete end-to-end pipeline:
 - Annotating frames with bounding boxes, labels, timestamp, and FPS
 - Generating output videos showing detected anomalies
 
-## How to Run
+## Instructions and Project Features and Dependencies 
 
 ### 1. Run the default test video:
 
