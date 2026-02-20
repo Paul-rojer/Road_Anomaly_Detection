@@ -1,0 +1,13 @@
+path: E:\ARM Project\datasets\final_dataset
+
+train: images/train
+val: images/valid
+
+nc: 6
+names:
+  - class_0
+  - class_1
+  - class_2
+  - class_3
+  - class_4
+  - class_5
